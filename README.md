@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Python and Tableau.
   - 💬 Ask me on - Creating a Github portfolio, Excel, SQL, Markdown, Financial Modelling
 - 📫 How to reach me:[kumri17ankita@gmail.com]
-- 📄 Experience - [Linkedin](www.linkedin.com/in/ankita-kumari17)
+- 📄 Know about my Experiences - [Linkedin](www.linkedin.com/in/ankita-kumari17)
 - ⚡ Fun fact: ...I am a Yoga RYT 200 Teacher
